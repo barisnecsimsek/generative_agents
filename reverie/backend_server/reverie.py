@@ -31,7 +31,7 @@ import traceback
 from selenium import webdriver
 
 from global_methods import *
-from utils import *
+from config import *
 from maze import *
 from persona.persona import *
 
